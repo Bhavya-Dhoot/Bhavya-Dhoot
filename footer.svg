@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" role="img" aria-label="Scoped, built, deployed, operated">
+  <style>
+    :root { --ink:#141414; --muted:#7a7873; --line:#e4e2dd; }
+    @media (prefers-color-scheme: dark) { :root { --ink:#ededed; --muted:#8f8d87; --line:#2b2b2b; } }
+    .ink{fill:var(--ink);} .muted{fill:var(--muted);} .line{stroke:var(--line);}
+    .mono{font-family:'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',monospace;}
+  </style>
+
+  <line x1="60" y1="34" x2="1140" y2="34" class="line" stroke-width="1"/>
+
+  <text x="600" y="74" class="mono ink" font-size="13" letter-spacing="3" text-anchor="middle">SCOPED &#183; BUILT &#183; DEPLOYED &#183; OPERATED</text>
+
+  <circle cx="600" cy="94" r="7" class="ink" opacity="0.14">
+    <animate attributeName="r" values="3;13;3" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.22;0;0.22" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="94" r="3" class="ink"/>
+</svg>

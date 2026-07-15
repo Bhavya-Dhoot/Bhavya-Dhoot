@@ -8,13 +8,17 @@
 
 </div>
 
----
+<br>
 
-CS undergrad at **VIT** (B.Tech, '27) working as a hands-on AI consultant out of a founder's office: I scope directly with leadership, pick the stack, then build, deploy, and operate **7+ production AI/automation systems** across two FMCG companies — sales intelligence, production planning, supply-chain reconciliation, and reporting. Quant research at **JM Financial** and full-stack fintech engineering behind it.
+CS undergrad at **VIT** (B.Tech, '27) working as a hands-on AI consultant out of a founder's office: I scope directly with leadership, pick the stack, then build, deploy, and operate production AI and automation systems across two FMCG companies — sales intelligence, production planning, supply-chain reconciliation, reporting. Quant research at **JM Financial** and full-stack fintech engineering behind it.
 
----
+<br>
 
-### Selected work
+<img src="./metrics.svg" alt="7+ systems live · sub-340ms signal latency · 66% API cost cut · 88% RAG retrieval · 96.1% model accuracy · 24.7M parameters fine-tuned" width="100%" />
+
+<br>
+
+<img src="./header-work.svg" alt="Selected work" width="100%" />
 
 | Project | Stack |
 | --- | --- |
@@ -29,19 +33,26 @@ Also public: **[JewelQR](https://github.com/Bhavya-Dhoot/jewelqr-system)** (jewe
 
 **Private / under NDA:** systematic quant-research systems and equity-research tooling, plus a multi-system AI operations suite running in production — details withheld under client agreements.
 
----
+<br>
 
-### Now
+<img src="./header-now.svg" alt="Currently" width="100%" />
 
 - **The Health Factory** — AI Consultant, Founder's Office
 - **JM Financial** — Equity Research (quant infrastructure)
 - **Entrepreneurship Cell, VIT** — Chairperson (200+ members)
 
----
+<br>
 
-### Toolkit
+<img src="./header-toolkit.svg" alt="Toolkit" width="100%" />
 
 **Languages** — Python · Rust · TypeScript · SQL
+
 **AI / ML** — Multi-agent systems · RAG pipelines · Transformer fine-tuning · PPO / GNN · LightGBM · GARCH / HMM regime modeling · Qiskit
+
 **Systems** — FastAPI · Next.js · Docker · Airflow · TimescaleDB / Redis · Playwright · n8n · GCP Cloud Run · Oracle Cloud
+
 **Finance** — BSM & Greeks · SPAN margin · factor & cross-sectional momentum · market microstructure · Angel One SmartAPI
+
+<br>
+
+<img src="./footer.svg" alt="Scoped · Built · Deployed · Operated" width="100%" />
