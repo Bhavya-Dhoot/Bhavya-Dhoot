@@ -1,12 +1,10 @@
 <div align="center">
 
-# Bhavya Dhoot
+<img src="./banner.svg" alt="Bhavya Dhoot — AI Systems Engineer & Quant Researcher" width="100%" />
 
-**AI systems engineer & quant researcher** — Dubai, UAE
+**I build deployed, self-running systems — not prototypes.**
 
-I build deployed, self-running systems — not prototypes.
-
-[Email](mailto:dhoot.bhavya1@gmail.com) · [LinkedIn](https://linkedin.com/in/bhavya-dhoot)
+[Email](mailto:dhoot.bhavya1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bhavya-dhoot)
 
 </div>
 
