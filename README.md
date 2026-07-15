@@ -10,7 +10,7 @@
 
 <br>
 
-CS undergrad at **VIT** (B.Tech, '27) working as a hands-on AI consultant out of a founder's office: I scope directly with leadership, pick the stack, then build, deploy, and operate production AI and automation systems across two FMCG companies — sales intelligence, production planning, supply-chain reconciliation, reporting. Quant research at **JM Financial** and full-stack fintech engineering behind it.
+<img src="./intro.svg" alt="CS undergrad at VIT (B.Tech, '27) working as a hands-on AI consultant out of a founder's office: I scope directly with leadership, pick the stack, then build, deploy, and operate production AI and automation systems across two FMCG companies — sales intelligence, production planning, supply-chain reconciliation, reporting. Quant research at JM Financial and full-stack fintech engineering behind it." width="100%" />
 
 <br>
 
